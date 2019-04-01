@@ -7,12 +7,12 @@ encoding utf-8
 Sheet 1 1
 Title "Project NuXT - MicroATX XT Motherboard"
 Date "2019-03-11"
-Rev ""
+Rev "1.1"
 Comp "Monotech PCs"
 Comment1 ""
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "Based on schematics by Sergey Kiselev"
+Comment4 "http://www.malinov.com/Home/sergeys-projects"
 $EndDescr
 Text Label 38300 2600 2    60   ~ 0
 ~DACK0
@@ -10752,7 +10752,7 @@ F 3 "" H 37450 8100 50  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Device:R_Network05 RN14
+L Device:R_Network04 RN14
 U 1 1 67F512DF
 P 37850 8300
 F 0 "RN14" V 37450 8400 50  0000 C CNN
@@ -10839,9 +10839,7 @@ F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 27000 16100 50  0001 C CNN
 $EndComp
 Text Label 7950 17800 1    60   ~ 0
 VGAAEN
-Wire Wire Line
-	37650 8500 36850 8500
-Text Label 36850 8500 0    60   ~ 0
+Text Label 7400 10400 0    60   ~ 0
 VGAAEN
 Wire Wire Line
 	8200 9100 8650 9100
@@ -10864,10 +10862,10 @@ Text Label 7400 10100 0    60   ~ 0
 ~VID1
 Text Label 7400 10000 0    60   ~ 0
 ~VID0
-Text Label 7400 10400 0    60   ~ 0
+Text Label 7400 10500 0    60   ~ 0
 E0_PASS
 Wire Wire Line
-	7800 10400 7400 10400
+	7800 10500 7400 10500
 Text Label 15250 7800 0    60   ~ 0
 KBDATA
 Text Label 15250 7700 0    60   ~ 0
@@ -10900,14 +10898,14 @@ Text Label 15250 7400 0    60   ~ 0
 Wire Wire Line
 	15650 7400 15250 7400
 $Comp
-L Device:R_Network05 RN15
+L Device:R_Network06 RN15
 U 1 1 63AAFA08
-P 8000 10200
-F 0 "RN15" V 7600 10200 50  0000 C CNN
-F 1 "10K" V 7700 10200 50  0000 C CNN
-F 2 "Resistor_THT:R_Array_SIP10" V 8475 10200 50  0001 C CNN
-F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 8000 10200 50  0001 C CNN
-	1    8000 10200
+P 8000 10300
+F 0 "RN15" V 7500 10300 50  0000 C CNN
+F 1 "10K" V 7600 10300 50  0000 C CNN
+F 2 "Resistor_THT:R_Array_SIP10" V 8475 10300 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 8000 10300 50  0001 C CNN
+	1    8000 10300
 	0    1    1    0   
 $EndComp
 $Comp
@@ -10931,4 +10929,6 @@ Wire Wire Line
 	7800 10200 7400 10200
 Wire Wire Line
 	7800 10300 7400 10300
+Wire Wire Line
+	7800 10400 7400 10400
 $EndSCHEMATC
