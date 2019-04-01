@@ -3,7 +3,7 @@ Note: Current schematic files are for v1.1 draft. This has some errors fixed. Th
 The changes in the schematic:
 > Swapped power rails for DIP oscillator.
 
-> Changed VGA enable switch to connect ALE to VGA-ALE, instead of RESET to VGA-RESET. Added pull-down to VGA-ALE.
+> Changed VGA enable switch to connect AEN to VGA-AEN, instead of RESET to VGA-RESET. Added pull-down to VGA-AEN.
 
 > Added pull-up to FDC CS.
 
