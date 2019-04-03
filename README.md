@@ -10,6 +10,12 @@ The changes in the schematic:
 > Optimized resistors and resistor packs.
 
 
+Known bugs:
+> VGA disable still doesn't work correctly after fix above. Works for another VGA, but not MDA/CGA.
+
+> Mouse stops working in graphics mode applications, but works fine in text mode. A different serial card doesn't help.
+
+
 Based on schematics by Sergey Kiselev, with some small changes for combining optimization and board layout efficiency:
 
 http://www.malinov.com/Home/sergeys-projects/isa-fdc-and-uart
