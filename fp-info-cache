@@ -1,4 +1,4 @@
-15817931749136416
+15879397759652309
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -42133,12 +42133,26 @@ ISA ISA8 EDGE CONN
 62
 62
 Custom
+Conn_Edge_ISA8_Longpads
+ISA8 Edge Connector
+ISA ISA8 EDGE CONN
+0
+62
+62
+Custom
 Conn_Mini_DIN_6pin
 Connector, Mini-DIN, 6 pin
 MINI DIN CONN 6PIN
 0
 9
 7
+Custom
+Crystal_HC49-U_Horizontal_Solderpad
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+3
+2
 Custom
 DSUB-15-HD_Female_Horizontal_CONNFLY_DS1308
 15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
@@ -42175,6 +42189,13 @@ PQFP QFP
 160
 160
 Custom
+PQFP-160_28x28mm_P0.65mm_LongPads
+PQFP, 160 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+PQFP QFP
+0
+160
+160
+Custom
 SW_MS-22D18G2
 
 
@@ -42182,6 +42203,132 @@ SW_MS-22D18G2
 6
 6
 Custom
+TO220-3_Soldertab
+TO220, 3 Leads, Horizontal
+TO220-3
+0
+4
+4
+Custom KiCad Library
+BarrelJack_Horizontal_SlimPad
+DC Barrel Jack
+Power Jack
+0
+3
+3
+Custom KiCad Library
+Conn_Dsub_DE9M
+Connector DE9 Male Right Angle Through Hole
+CONN DSUB DE9M 9PIN
+0
+11
+9
+Custom KiCad Library
+Conn_Edge_ISA8_Longpads
+ISA8 Edge Connector
+ISA ISA8 EDGE CONN
+0
+62
+62
+Custom KiCad Library
+Conn_Mini_DIN_6pin
+Connector, Mini-DIN, 6 pin
+MINI DIN CONN 6PIN
+0
+9
+7
+Custom KiCad Library
+Crystal_HC49-U_Horizontal_Solderpad
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+3
+2
+Custom KiCad Library
+C_Disc_D4.3mm_W1.9mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor
+0
+2
+2
+Custom KiCad Library
+DSUB-15-HD_Female_Horizontal_CONNFLY_DS1308
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+17
+16
+Custom KiCad Library
+Monotech Logo 18mm
+
+
+0
+0
+0
+Custom KiCad Library
+Monotech Logo 92mm
+
+
+0
+0
+0
+Custom KiCad Library
+PinHeader_1x04_3Loaded_P2.54mm_Horizontal
+Through hole angled pin header, 1x04, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x04 2.54mm single row
+0
+4
+4
+Custom KiCad Library
+Pin_Header_Angled_2x20_Pitch2.54mm_Shrouded
+Through hole angled pin header, 2x20, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x20 2.54mm double row
+0
+40
+40
+Custom KiCad Library
+Pin_Header_Straight_2x17_Pitch2.54mm_shrouded
+Through hole straight pin header, 2x17, 2.54mm pitch, double rows
+Through hole pin header THT 2x17 2.54mm double row
+0
+34
+34
+Custom KiCad Library
+PQFP-160_28x28mm_P0.65mm_LongPads
+PQFP, 160 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+PQFP QFP
+0
+160
+160
+Custom KiCad Library
+R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
+2
+Custom KiCad Library
+SOIC-14_3.9x8.7mm_P1.27mm
+14-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+14
+14
+Custom KiCad Library
+SOIC-20W_7.5x12.8mm_P1.27mm
+20-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+20
+20
+Custom KiCad Library
+SSOP-32_11.305x20.495mm_P1.27mm
+SSOP, 32 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO
+0
+32
+32
+Custom KiCad Library
 TO220-3_Soldertab
 TO220, 3 Leads, Horizontal
 TO220-3
@@ -49091,6 +49238,13 @@ Arduino UNO R3
 32
 32
 Module
+BeagleBoard_PocketBeagle
+PocketBeagle, https://github.com/beagleboard/pocketbeagle/wiki/System-Reference-Manual#71_Expansion_Header_Connectors
+PocketBeagle
+0
+72
+72
+Module
 Maple_Mini
 Maple Mini, http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/0.0.12/hardware/maple-mini.html
 Maple Mini
@@ -49139,6 +49293,69 @@ ESP8266 WiFi microcontroller
 0
 16
 16
+Monotech Obscure KiCad Library
+30pin_SIMM
+
+
+0
+90
+30
+Monotech Obscure KiCad Library
+72pin-SIMM
+
+PC, RAM
+0
+216
+72
+Monotech Obscure KiCad Library
+ANDK_TSOP54-0.80TP01N_44Loaded_DIP_Adapter
+
+
+0
+54
+44
+Monotech Obscure KiCad Library
+CF_Slot_3M_N7E50-7516TS0884
+
+
+0
+52
+50
+Monotech Obscure KiCad Library
+CKCOMP-OS202011MA0QS1
+
+DPDT RA Right-Angle
+0
+8
+6
+Monotech Obscure KiCad Library
+din-5
+Din 5 (MIDI), Pro Signal P/N PSG03463
+
+0
+7
+6
+Monotech Obscure KiCad Library
+Potentiometer_Alps_RK09K_Vertical
+Potentiometer, vertically mounted, Omeg PC16PU, Omeg PC16PU, Omeg PC16PU, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GH/249GH Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148A/149A Single with mounting plates, Vishay/Spectrol 148/149 Double, Vishay/Spectrol 148A/149A Double with mounting plates, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16SV Single, Piher PC-16 Double, Piher PC-16 Triple, Piher T16H Single, Piher T16L Single, Piher T16H Double, Alps RK163 Single, Alps RK163 Double, Alps RK097 Single, Alps RK097 Double, Bourns PTV09A-2 Single with mounting sleve Single, Bourns PTV09A-1 with mounting sleve Single, Bourns PRS11S Single, Alps RK09K Single with mounting sleve Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K1110A2S.html
+Potentiometer vertical  Omeg PC16PU  Omeg PC16PU  Omeg PC16PU  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GH/249GH Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148A/149A Single with mounting plates  Vishay/Spectrol 148/149 Double  Vishay/Spectrol 148A/149A Double with mounting plates  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16SV Single  Piher PC-16 Double  Piher PC-16 Triple  Piher T16H Single  Piher T16L Single  Piher T16H Double  Alps RK163 Single  Alps RK163 Double  Alps RK097 Single  Alps RK097 Double  Bourns PTV09A-2 Single with mounting sleve Single  Bourns PTV09A-1 with mounting sleve Single  Bourns PRS11S Single  Alps RK09K Single with mounting sleve Single
+0
+5
+4
+Monotech Obscure KiCad Library
+QFP-160_28x28mm_P0.65mm_Wells-Socket
+QFP, 160 Pin, + Wells-CTI Socket 7328-160-1-08
+PQFP QFP 7328-160-1-08
+0
+320
+160
+Monotech Obscure KiCad Library
+SW_MS-22D18G2
+
+
+0
+6
+6
 MountingEquipment
 DINRailAdapter_3xM3_PhoenixContact_1201578
 https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1
@@ -52298,11 +52515,11 @@ pqfn 44 7x7mm
 27
 Package_DFN_QFN
 Linear_DE14MA
-DE Package; 14-Lead Plastic DFN (4mm x 3mm) with special pads (see http://cds.linear.com/docs/en/datasheet/3032ff.pdf)
+14-Lead Plastic DFN, 4mm x 3mm (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/05081731_C_DE14MA.pdf)
 DFN 0.5
 0
-16
-16
+14
+14
 Package_DFN_QFN
 Linear_UGK52_QFN-46-52
 Linear UKG52(46) package, QFN-52-1EP variant (see http://cds.linear.com/docs/en/datasheet/3886fe.pdf)
@@ -54004,6 +54221,20 @@ QFN NoLead
 0
 39
 25
+Package_DFN_QFN
+Texas_S-PWQFN-N100_EP5.5x5.5mm
+http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/lit/ds/sllse76m/sllse76m.pdf
+MultiRow QFN
+0
+114
+105
+Package_DFN_QFN
+Texas_S-PWQFN-N100_EP5.5x5.5mm_ThermalVias
+http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/lit/ds/sllse76m/sllse76m.pdf
+MultiRow QFN
+0
+131
+105
 Package_DFN_QFN
 Texas_VQFN-RHL-20
 http://www.ti.com/lit/ds/symlink/bq51050b.pdf
@@ -57434,6 +57665,13 @@ SSOP 0.5
 0
 15
 13
+Package_SO
+Linear_MSOP-12-16_3x4mm_P0.5mm
+12-Lead Plastic Micro Small Outline Package (MS) [MSOP], variant of MSOP-16 (see https://www.analog.com/media/en/technical-documentation/data-sheets/3748fb.pdf)
+SSOP 0.5
+0
+12
+12
 Package_SO
 MFSOP6-4_4.4x3.6mm_P1.27mm
 https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.4pin%20MFSOP6.html
