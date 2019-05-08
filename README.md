@@ -1,20 +1,41 @@
-Note: Current schematic files are for v1.1 draft. This has some errors fixed. These changes have not been made in the PCB files, which are still v1.0.
+Can be used as a full featured XT without any cards.
 
-The changes in the schematic:
-> Swapped power rails for DIP oscillator.
+Can add Sound, Network Card, or more storage/connectivity via the four ISA slots.
 
-> Changed VGA enable switch to connect AEN to VGA-AEN, instead of RESET to VGA-RESET. Added pull-up to VGA-AEN.
+Features:
 
-> Added pull-up to FDC CS.
+8088 and NEC V20 support
 
-> Optimized resistors and resistor packs.
+8087 co-processor support
 
+4.77MHz, switchable to 9.55MHz with Ctrl-Alt-+
 
-Known bugs:
-> VGA disable still doesn't work correctly after fix above. Works for another VGA, but not MDA/CGA.
+2x64K ROM, switchable with DIP switch, writable
 
-> Mouse stops working in graphics mode applications, but works fine in text mode. A different serial card doesn't help.
+800K SRAM
+- 640K conventional
+- up to 160K UMBs (128K max when using VGA)
+- Configured DOS 6.22 uses only 10K conventional!
 
+Highly-compatible TVGA9000i SVGA
+
+HD Floppy controller, with FM support
+
+Bootable CF Card Interface
+
+ROM Socket, supporting 8K and 32K ROMs, writable
+
+16550 Serial Port
+
+PS/2 Keyboard Port
+
+ATX Power Input. Generates own -5V
+
+4 x 8-bit ISA Slots
+
+Front-panel connector for modern cases
+
+---
 
 Based on schematics by Sergey Kiselev, with some small changes for combining optimization and board layout efficiency:
 
