@@ -1,197 +1,85 @@
-43504228195894
-Custom KiCad Library
-BarrelJack_Horizontal_SlimPad
-DC Barrel Jack
-Power Jack
-0
-3
-3
-Custom KiCad Library
-Conn_Dsub_DE9M
-Connector DE9 Male Right Angle Through Hole
-CONN DSUB DE9M 9PIN
-0
-11
-9
-Custom KiCad Library
-Conn_Edge_ISA8_Longpads
-ISA8 Edge Connector
-ISA ISA8 EDGE CONN
-0
-62
-62
-Custom KiCad Library
-Conn_Mini_DIN_6pin
-Connector, Mini-DIN, 6 pin
-MINI DIN CONN 6PIN
-0
-9
-7
-Custom KiCad Library
-Crystal_HC49-U_Horizontal_Solderpad
-Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf
-THT crystal
-0
-3
-2
-Custom KiCad Library
-C_Disc_D4.3mm_W1.9mm_P5.00mm
-C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
-C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor
+18627046080585
+NetTie
+NetTie-2_SMD_Pad0.5mm
+Net tie, 2 pin, 0.5mm square SMD pads
+net tie
 0
 2
 2
-Custom KiCad Library
-DIP-14_W7.62mm
-14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+NetTie
+NetTie-2_SMD_Pad2.0mm
+Net tie, 2 pin, 2.0mm square SMD pads
+net tie
 0
-14
-14
-Custom KiCad Library
-DIP-16_W7.62mm
-16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+2
+2
+NetTie
+NetTie-2_THT_Pad0.3mm
+Net tie, 2 pin, 0.3mm round THT pads
+net tie
 0
-16
-16
-Custom KiCad Library
-DIP-20_W7.62mm
-20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+2
+2
+NetTie
+NetTie-2_THT_Pad1.0mm
+Net tie, 2 pin, 1.0mm round THT pads
+net tie
 0
-20
-20
-Custom KiCad Library
-DIP-20_W7.62mm_Socket
-20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+2
+2
+NetTie
+NetTie-3_SMD_Pad0.5mm
+Net tie, 3 pin, 0.5mm square SMD pads
+net tie
 0
-20
-20
-Custom KiCad Library
-DIP-28_W15.24mm_Socket
-28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
-THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+3
+3
+NetTie
+NetTie-3_SMD_Pad2.0mm
+Net tie, 3 pin, 2.0mm square SMD pads
+net tie
 0
-28
-28
-Custom KiCad Library
-DIP-32_W15.24mm_Socket
-32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
-THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+3
+3
+NetTie
+NetTie-3_THT_Pad0.3mm
+Net tie, 3 pin, 0.3mm round THT pads
+net tie
 0
-32
-32
-Custom KiCad Library
-DIP-40_W15.24mm_Socket
-40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
-THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+3
+3
+NetTie
+NetTie-3_THT_Pad1.0mm
+Net tie, 3 pin, 1.0mm round THT pads
+net tie
 0
-40
-40
-Custom KiCad Library
-DSUB-15-HD_Female_Horizontal_CONNFLY_DS1308
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-17
-16
-Custom KiCad Library
-Monotech Logo 18mm
-
-
-0
-0
-0
-Custom KiCad Library
-Monotech Logo 92mm
-
-
-0
-0
-0
-Custom KiCad Library
-PinHeader_1x04_3Loaded_P2.54mm_Horizontal
-Through hole angled pin header, 1x04, 2.54mm pitch, 6mm pin length, single row
-Through hole angled pin header THT 1x04 2.54mm single row
+3
+3
+NetTie
+NetTie-4_SMD_Pad0.5mm
+Net tie, 4 pin, 0.5mm square SMD pads
+net tie
 0
 4
 4
-Custom KiCad Library
-Pin_Header_Angled_2x20_Pitch2.54mm_Shrouded
-Through hole angled pin header, 2x20, 2.54mm pitch, 6mm pin length, double rows
-Through hole angled pin header THT 2x20 2.54mm double row
+NetTie
+NetTie-4_SMD_Pad2.0mm
+Net tie, 4 pin, 2.0mm square SMD pads
+net tie
 0
-40
-40
-Custom KiCad Library
-Pin_Header_Straight_2x17_Pitch2.54mm_shrouded
-Through hole straight pin header, 2x17, 2.54mm pitch, double rows
-Through hole pin header THT 2x17 2.54mm double row
+4
+4
+NetTie
+NetTie-4_THT_Pad0.3mm
+Net tie, 4 pin, 0.3mm round THT pads
+net tie
 0
-34
-34
-Custom KiCad Library
-PLCC-44_THT-Socket
-PLCC, 44 pins, through hole
-plcc leaded
-0
-44
-44
-Custom KiCad Library
-PLCC-68_THT-Socket
-PLCC, 68 pins, through hole
-plcc leaded
-0
-68
-68
-Custom KiCad Library
-PLCC-84_THT-Socket
-PLCC, 84 pins, through hole
-plcc leaded
-0
-84
-84
-Custom KiCad Library
-PQFP-160_28x28mm_P0.65mm_LongPads
-PQFP, 160 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
-PQFP QFP
-0
-160
-160
-Custom KiCad Library
-R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
-Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
-0
-2
-2
-Custom KiCad Library
-SOIC-14_3.9x8.7mm_P1.27mm
-14-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-14
-14
-Custom KiCad Library
-SOIC-20W_7.5x12.8mm_P1.27mm
-20-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-20
-20
-Custom KiCad Library
-SSOP-32_11.305x20.495mm_P1.27mm
-SSOP, 32 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SSOP SO
-0
-32
-32
-Custom KiCad Library
-TO220-3_Soldertab
-TO220, 3 Leads, Horizontal
-TO220-3
+4
+4
+NetTie
+NetTie-4_THT_Pad1.0mm
+Net tie, 4 pin, 1.0mm round THT pads
+net tie
 0
 4
 4

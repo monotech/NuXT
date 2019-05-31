@@ -1,4 +1,4 @@
-update=8/05/2019 5:00:06 PM
+update=17/05/2019 3:40:45 AM
 version=1
 last_client=kicad
 [general]
@@ -26,7 +26,7 @@ ERC_TestSimilarLabels=1
 version=1
 PageLayoutDescrFile=
 LastNetListRead=Project NuXT.net
-CopperLayerCount=2
+CopperLayerCount=4
 BoardThickness=1.6
 AllowMicroVias=0
 AllowBlindVias=0
@@ -38,7 +38,7 @@ MinViaDrill=0.3
 MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
-TrackWidth1=0.2
+TrackWidth1=0.3
 TrackWidth2=0.5
 TrackWidth3=0.65
 TrackWidth4=1
@@ -75,3 +75,9 @@ SolderMaskClearance=0
 SolderMaskMinWidth=0
 SolderPasteClearance=0
 SolderPasteRatio=-0
+[pcbnew/Layer.In1.Cu]
+Name=In1.Cu
+Type=1
+[pcbnew/Layer.In2.Cu]
+Name=In2.Cu
+Type=1

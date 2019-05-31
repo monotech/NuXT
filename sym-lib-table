@@ -3,6 +3,5 @@
   (lib (name 8088-FE2010A-SBC-rescue)(type Legacy)(uri ${KIPRJMOD}/8088-FE2010A-SBC-rescue.lib)(options "")(descr ""))
   (lib (name xt-cf-mini-rescue)(type Legacy)(uri ${KIPRJMOD}/xt-cf-mini-rescue.lib)(options "")(descr ""))
   (lib (name isa_svga-rescue)(type Legacy)(uri ${KIPRJMOD}/isa_svga-rescue.lib)(options "")(descr ""))
-  (lib (name isa_fdc-monotech-modified-rescue)(type Legacy)(uri ${KIPRJMOD}/DeluxeFloppy-rescue.lib)(options "")(descr ""))
   (lib (name Project-NuXT-rescue)(type Legacy)(uri "${KIPRJMOD}/Project NuXT-rescue.lib")(options "")(descr ""))
 )
