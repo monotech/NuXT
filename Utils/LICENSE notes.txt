@@ -1,0 +1,1 @@
+Only the Micro8088 BIOS in this folder falls under the license of this repository.
